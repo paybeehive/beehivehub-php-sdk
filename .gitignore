@@ -1,6 +1,38 @@
+# Dependencies
 /vendor/
-/coverage/
+
+# Environment
+.env
 /.env
 /.env.local
+
+# Generated output
+/output/
+
+# Composer
 composer.phar
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+/logs/
+
+# Cache
+/cache/
+/.cache/
+
+# PHPUnit
 .phpunit.result.cache
+/coverage/
+
+#IA 
+/.claude/
