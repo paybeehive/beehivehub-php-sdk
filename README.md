@@ -23,6 +23,7 @@ SDK oficial para integração com a API Beehive Hub. Aceite pagamentos de forma 
 - [Tratamento de Erros](#tratamento-de-erros)
 - [Valores em Centavos](#valores-em-centavos)
 - [Boas Práticas de Segurança](#boas-práticas-de-segurança)
+- [Desenvolvimento](#desenvolvimento)
 - [Suporte](#suporte)
 - [Licença](#licença)
 
@@ -446,6 +447,27 @@ $dotenv = Dotenv::createImmutable(__DIR__);
 $dotenv->load();
 
 $beehive = new BeehiveHubClient($_ENV['BEEHIVE_SECRET_KEY']);
+```
+
+## Desenvolvimento
+
+### Rodando os testes
+
+```bash
+composer install
+vendor/bin/phpunit
+```
+
+### Cobertura de código
+
+Requer a extensão **PCOV** ou **Xdebug** instalada no PHP.
+
+```bash
+# Relatório no terminal
+vendor/bin/phpunit --coverage-text
+
+# Relatório HTML (gerado em coverage/)
+vendor/bin/phpunit --coverage-html coverage
 ```
 
 ## Documentação Adicional
