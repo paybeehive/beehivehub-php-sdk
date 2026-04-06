@@ -1,7 +1,6 @@
 {
     "name": "paybeehive/beehivehub-php-sdk",
     "description": "PHP SDK for BeehiveHub API",
-    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "require": {
