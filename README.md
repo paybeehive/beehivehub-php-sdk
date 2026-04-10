@@ -480,7 +480,7 @@ vendor/bin/phpunit --coverage-html coverage
 Para sugestões, bugs ou dúvidas:
 
 - **E-mail:** contato@paybeehive.com.br
-- **Documentação:** https://paybeehive.readme.io
+- **Documentação:** https://docs.beehivehub.io/
 
 ## Licença
 
