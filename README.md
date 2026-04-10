@@ -4,7 +4,7 @@ SDK oficial para integração com a API Beehive Hub. Aceite pagamentos de forma 
 
 [![Packagist Version](https://img.shields.io/packagist/v/paybeehive/beehivehub-php-sdk)](https://packagist.org/packages/paybeehive/beehivehub-php-sdk)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![PHP Version](https://img.shields.io/badge/php-%3E%3D8.1-blue)](https://www.php.net)
+[![PHP Version](https://img.shields.io/badge/php-%3E%3D8.2-blue)](https://www.php.net)
 
 ## Índice
 
@@ -33,7 +33,7 @@ SDK oficial para integração com a API Beehive Hub. Aceite pagamentos de forma 
 composer require paybeehive/beehivehub-php-sdk
 ```
 
-**Requisitos:** PHP 8.1+, extensões `curl` e `json`.
+**Requisitos:** PHP 8.2+, extensões `curl` e `json`.
 
 ## Quick Start
 
