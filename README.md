@@ -472,15 +472,16 @@ vendor/bin/phpunit --coverage-html coverage
 
 ## Documentação Adicional
 
-- [Documentação Oficial da API](https://paybeehive.readme.io/reference)
-- [Guia de Integração](https://paybeehive.readme.io/docs)
+- [Documentação Oficial da API](https://docs.beehivehub.io/api-reference/transa%C3%A7%C3%B5es/listar-transa%C3%A7%C3%B5es)
+- [Guia de Integração](https://docs.beehivehub.io/introdu%C3%A7%C3%A3o)
+- [Card Tokenization](https://docs.beehivehub.io/quickstart)
 
 ## Suporte
 
 Para sugestões, bugs ou dúvidas:
 
 - **E-mail:** contato@paybeehive.com.br
-- **Documentação:** https://docs.beehivehub.io/
+- **Documentação:** [docs.beehivehub.io](https://docs.beehivehub.io)
 
 ## Licença
 
