@@ -12,7 +12,7 @@ class Constants
     public const PAYMENT_LINK_PRODUCTION_URL = 'https://link.conta.paybeehive.com.br';
     public const PAYMENT_LINK_SANDBOX_URL = 'https://link.sandbox.hopysplit.com.br';
 
-    public const DOCS_URL = 'https://paybeehive.readme.io';
+    public const DOCS_URL = 'https://docs.beehivehub.io';
 
     public static function defaultHeaders(string $apiKey): array
     {
