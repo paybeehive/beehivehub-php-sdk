@@ -472,7 +472,7 @@ vendor/bin/phpunit --coverage-html coverage
 
 ## Documentação Adicional
 
-- [Documentação Oficial da API](https://docs.beehivehub.io/api-reference/transa%C3%A7%C3%B5es/listar-transa%C3%A7%C3%B5es)
+- [Documentação Oficial da API](https://docs.beehivehub.io/api-reference)
 - [Guia de Integração](https://docs.beehivehub.io/introdu%C3%A7%C3%A3o)
 - [Card Tokenization](https://docs.beehivehub.io/quickstart)
 
